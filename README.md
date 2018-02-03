@@ -17,17 +17,22 @@
 2. Geef hier wat tekst in weer dat, afhankelijk van de taalinstellingen van de telefoon, Engelse of Nederlandse tekst weergeeft.
 3. Plaats een `EditText` en een nieuwe `TextView` en geef de tekst weer in de `TextView`.
 4. Zorg dat de ingevoerde tekst ook wordt weergegeven in de taalafhankelijke `TextView` uit punt 2.
+5. Plaats een button op de Activity.
+6. Maak een nieuwe empty activity aan en noem deze `Opdracht1a`
+7. Zorg dat als je op die knop drukt, deze nieuwe activity opstart
+8. Voeg een `TextView` toe aan de nieuwe activity.
+9. Stuur de tekst uit de `EditText` door naar de Opdracht1a activity en geef het weer in de `TextView` (gebruik de extra data die je kunt meesturen met een Intent)
 
 ## Opdracht 2
 1. Voeg een nieuwe List Fragment toe (file > new > Fragment > Fragment (List))
 2. Zorg dat deze nieuwe fragment wordt geladen op de `Opdracht2` activity (Via de layout XML)
 3. Laat in de list fragment 15 verschillende ingrediënten zien. (kijk in de dummy folder, daar zit er code voor in)
-4. Zorg dat je ingrediënten kan toevoegen en verwijderen
+4. Bedenk een manier om ingrediënten toe te voegen en te verwijderen en implementeer dit
 5. Persisteer de toegevoegde en verwijderde ingredienten in een SQLite database.
 
 ## Opdracht 3
 1. Maak een API key aan op https://newsapi.org/
-2. Laat het laatste Nederlandse nieuws zien in de Opdracht 3 activity d.m.v. REST calls
+2. Laat het laatste Nederlandse nieuws zien in de Opdracht 3 activity d.m.v. REST calls.
 
 ## Bonus opdracht
 1. Maak een nieuw scherm en zorg dat je deze kunt opstarten vanuit het hoofdscherm
