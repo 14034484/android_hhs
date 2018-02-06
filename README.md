@@ -24,7 +24,7 @@
 8. Voeg een `TextView` toe aan de nieuwe activity.
 9. Stuur de tekst uit de `EditText` door naar de Opdracht1a activity en geef het weer in de `TextView`
 
-Extra informatie:
+### Extra informatie:
 * EditText: https://developer.android.com/training/keyboard-input/style.html
 * Activity Lifecycle: https://developer.android.com/guide/components/activities/activity-lifecycle.html
 * Event listening: https://guides.codepath.com/android/Basic-Event-Listeners
@@ -37,7 +37,7 @@ Extra informatie:
 4. Bedenk een manier om ingrediënten toe te voegen en te verwijderen en implementeer dit
 5. Persisteer de toegevoegde en verwijderde ingredienten in een SQLite database.
 
-Extra informatie: 
+### Extra informatie: 
 * Fragments: https://developer.android.com/guide/components/fragments.html
 * RecyclerView: https://developer.android.com/training/material/lists-cards.html
 * SQLite database: https://developer.android.com/training/data-storage/sqlite.html#java
@@ -47,7 +47,7 @@ Extra informatie:
 1. Maak een API key aan op https://newsapi.org/
 2. Laat het laatste Nederlandse nieuws zien in de Opdracht 3 activity d.m.v. REST calls.
 
-Extra informatie: 
+### Extra informatie: 
 * REST: https://en.wikipedia.org/wiki/Representational_state_transfer
 * AsyncTask: https://developer.android.com/reference/android/os/AsyncTask.html
 
