@@ -22,13 +22,13 @@
 6. Maak een nieuwe empty activity aan en noem deze `Opdracht1a`
 7. Zorg dat als je op die knop drukt, deze nieuwe activity opstart
 8. Voeg een `TextView` toe aan de nieuwe activity.
-9. Stuur de tekst uit de `EditText` door naar de Opdracht1a activity en geef het weer in de `TextView` (gebruik de extra data die je kunt meesturen met een Intent)
+9. Stuur de tekst uit de `EditText` door naar de Opdracht1a activity en geef het weer in de `TextView`
 
 Extra informatie:
 * EditText: https://developer.android.com/training/keyboard-input/style.html
 * Activity Lifecycle: https://developer.android.com/guide/components/activities/activity-lifecycle.html
 * Event listening: https://guides.codepath.com/android/Basic-Event-Listeners
-* 
+* Intent: https://developer.android.com/reference/android/content/Intent.html
 
 ## Opdracht 2
 1. Voeg een nieuwe List Fragment toe (file > new > Fragment > Fragment (List))
